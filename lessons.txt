@@ -1,0 +1,10 @@
+1. Introduction to Django
+2. Django Models
+3. Django Views
+4. Django Templates
+5. Working with Forms in Django
+6. Django Admin Interface
+7. Django Authentication
+8. Django Rest Framework
+9. Deploying Django Applications
+10. Advanced Django Concepts
